@@ -55,7 +55,7 @@ int main() {
 		cout << "\n 2. Bujursangkar dibuat";
 		cin >> pilihan;
 
-		switch (pilihan) {
+		switch (pilihan) { 
 		case 1:
 			cout << "masukan jari-jari = ";
 			cin >> jejari;
